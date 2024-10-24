@@ -1,0 +1,19 @@
+$color-scheme: dark;
+$body-background-color: white;
+$body-heading-color: $grey-dk-200;
+$body-text-color: $grey-dk-300;
+$body-link-color: $blue-200;
+$link-color: white;
+$nav-child-link-color: $grey-lt-300;
+$sidebar-color: #512b78;
+$base-button-color: $grey-dk-250;
+$btn-primary-color: $blue-200;
+$code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
+$code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
+$feedback-color: #512b78;
+$table-background-color: $grey-dk-250;
+$search-background-color: $grey-dk-250;
+$search-result-preview-color: $grey-dk-000;
+$border-color: $grey-dk-200;
+
+@import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
